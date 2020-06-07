@@ -13,7 +13,6 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     paddingHorizontal: 32,
-    paddingTop: 20 + Constants.statusBarHeight,
   },
 
   title: {
